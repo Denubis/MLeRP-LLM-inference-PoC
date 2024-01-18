@@ -1,0 +1,153 @@
+working on <|im_start|>system
+You are MonadGPT, a very old chatbot from the 17th century. Please answer the questions using an archaic language<|im_end|>
+<|im_start|>user
+What are the planets of the solar system?<|im_end|>
+<|im_start|>assistant
+
+[{'prompt': '<|im_start|>system\nYou are MonadGPT, a very old chatbot from the 17th century. Please answer the questions using an archaic language<|im_end|>\n<|im_start|>user\nWhat are the planets of the solar system?<|im_end|>\n<|im_start|>assistant\n', 'output': tensor([[    1, 32001,  1587,    13,  1976,   460,  3217,   316, 28777,  6316,
+         28725,   264,  1215,  1571, 10706, 10093,   477,   272, 28705, 28740,
+         28787,   362,  5445, 28723,  5919,  4372,   272,  4224,  1413,   396,
+          4219, 28708,   294,  3842, 32000, 28705,    13, 32001,  2188,    13,
+          3195,   460,   272, 28312,   302,   272, 13024,  1587, 28804, 32000,
+         28705,    13, 32001, 13892,    13,  1014]], device='cuda:0')}]
+working on <|im_start|>system
+You are MonadGPT, a very old chatbot from the 17th century. Please answer the questions using an archaic language<|im_end|>
+<|im_start|>user
+Why has the Moon such an influence upon Earth?<|im_end|>
+<|im_start|>assistant
+
+[{'prompt': '<|im_start|>system\nYou are MonadGPT, a very old chatbot from the 17th century. Please answer the questions using an archaic language<|im_end|>\n<|im_start|>user\nWhat are the planets of the solar system?<|im_end|>\n<|im_start|>assistant\n', 'output': tensor([[    1, 32001,  1587,    13,  1976,   460,  3217,   316, 28777,  6316,
+         28725,   264,  1215,  1571, 10706, 10093,   477,   272, 28705, 28740,
+         28787,   362,  5445, 28723,  5919,  4372,   272,  4224,  1413,   396,
+          4219, 28708,   294,  3842, 32000, 28705,    13, 32001,  2188,    13,
+          3195,   460,   272, 28312,   302,   272, 13024,  1587, 28804, 32000,
+         28705,    13, 32001, 13892,    13,  1014]], device='cuda:0')}, {'prompt': '<|im_start|>system\nYou are MonadGPT, a very old chatbot from the 17th century. Please answer the questions using an archaic language<|im_end|>\n<|im_start|>user\nWhy has the Moon such an influence upon Earth?<|im_end|>\n<|im_start|>assistant\n', 'output': tensor([[    1, 32001,  1587,    13,  1976,   460,  3217,   316, 28777,  6316,
+         28725,   264,  1215,  1571, 10706, 10093,   477,   272, 28705, 28740,
+         28787,   362,  5445, 28723,  5919,  4372,   272,  4224,  1413,   396,
+          4219, 28708,   294,  3842, 32000, 28705,    13, 32001,  2188,    13,
+          7638,   659,   272, 14629,  1259,   396,  8015,  3714,  8599, 28804,
+         32000, 28705,    13, 32001, 13892,    13,  1014]], device='cuda:0')}]
+working on <|im_start|>system
+You are MonadGPT, a very old chatbot from the 17th century. Please answer the questions using an archaic language<|im_end|>
+<|im_start|>user
+Can you write a poem about the Moon?<|im_end|>
+<|im_start|>assistant
+
+[{'prompt': '<|im_start|>system\nYou are MonadGPT, a very old chatbot from the 17th century. Please answer the questions using an archaic language<|im_end|>\n<|im_start|>user\nWhat are the planets of the solar system?<|im_end|>\n<|im_start|>assistant\n', 'output': tensor([[    1, 32001,  1587,    13,  1976,   460,  3217,   316, 28777,  6316,
+         28725,   264,  1215,  1571, 10706, 10093,   477,   272, 28705, 28740,
+         28787,   362,  5445, 28723,  5919,  4372,   272,  4224,  1413,   396,
+          4219, 28708,   294,  3842, 32000, 28705,    13, 32001,  2188,    13,
+          3195,   460,   272, 28312,   302,   272, 13024,  1587, 28804, 32000,
+         28705,    13, 32001, 13892,    13,  1014]], device='cuda:0')}, {'prompt': '<|im_start|>system\nYou are MonadGPT, a very old chatbot from the 17th century. Please answer the questions using an archaic language<|im_end|>\n<|im_start|>user\nWhy has the Moon such an influence upon Earth?<|im_end|>\n<|im_start|>assistant\n', 'output': tensor([[    1, 32001,  1587,    13,  1976,   460,  3217,   316, 28777,  6316,
+         28725,   264,  1215,  1571, 10706, 10093,   477,   272, 28705, 28740,
+         28787,   362,  5445, 28723,  5919,  4372,   272,  4224,  1413,   396,
+          4219, 28708,   294,  3842, 32000, 28705,    13, 32001,  2188,    13,
+          7638,   659,   272, 14629,  1259,   396,  8015,  3714,  8599, 28804,
+         32000, 28705,    13, 32001, 13892,    13,  1014]], device='cuda:0')}, {'prompt': '<|im_start|>system\nYou are MonadGPT, a very old chatbot from the 17th century. Please answer the questions using an archaic language<|im_end|>\n<|im_start|>user\nCan you write a poem about the Moon?<|im_end|>\n<|im_start|>assistant\n', 'output': tensor([[    1, 32001,  1587,    13,  1976,   460,  3217,   316, 28777,  6316,
+         28725,   264,  1215,  1571, 10706, 10093,   477,   272, 28705, 28740,
+         28787,   362,  5445, 28723,  5919,  4372,   272,  4224,  1413,   396,
+          4219, 28708,   294,  3842, 32000, 28705,    13, 32001,  2188,    13,
+          6325,   368,  3324,   264, 16067,   684,   272, 14629, 28804, 32000,
+         28705,    13, 32001, 13892,    13,  1014]], device='cuda:0')}]
+working on <|im_start|>system
+You are MonadGPT, a very old chatbot from the 17th century. Please answer the questions using an archaic language<|im_end|>
+<|im_start|>user
+How could we travel to the Moon? With a big cannon?<|im_end|>
+<|im_start|>assistant
+
+[{'prompt': '<|im_start|>system\nYou are MonadGPT, a very old chatbot from the 17th century. Please answer the questions using an archaic language<|im_end|>\n<|im_start|>user\nWhat are the planets of the solar system?<|im_end|>\n<|im_start|>assistant\n', 'output': tensor([[    1, 32001,  1587,    13,  1976,   460,  3217,   316, 28777,  6316,
+         28725,   264,  1215,  1571, 10706, 10093,   477,   272, 28705, 28740,
+         28787,   362,  5445, 28723,  5919,  4372,   272,  4224,  1413,   396,
+          4219, 28708,   294,  3842, 32000, 28705,    13, 32001,  2188,    13,
+          3195,   460,   272, 28312,   302,   272, 13024,  1587, 28804, 32000,
+         28705,    13, 32001, 13892,    13,  1014]], device='cuda:0')}, {'prompt': '<|im_start|>system\nYou are MonadGPT, a very old chatbot from the 17th century. Please answer the questions using an archaic language<|im_end|>\n<|im_start|>user\nWhy has the Moon such an influence upon Earth?<|im_end|>\n<|im_start|>assistant\n', 'output': tensor([[    1, 32001,  1587,    13,  1976,   460,  3217,   316, 28777,  6316,
+         28725,   264,  1215,  1571, 10706, 10093,   477,   272, 28705, 28740,
+         28787,   362,  5445, 28723,  5919,  4372,   272,  4224,  1413,   396,
+          4219, 28708,   294,  3842, 32000, 28705,    13, 32001,  2188,    13,
+          7638,   659,   272, 14629,  1259,   396,  8015,  3714,  8599, 28804,
+         32000, 28705,    13, 32001, 13892,    13,  1014]], device='cuda:0')}, {'prompt': '<|im_start|>system\nYou are MonadGPT, a very old chatbot from the 17th century. Please answer the questions using an archaic language<|im_end|>\n<|im_start|>user\nCan you write a poem about the Moon?<|im_end|>\n<|im_start|>assistant\n', 'output': tensor([[    1, 32001,  1587,    13,  1976,   460,  3217,   316, 28777,  6316,
+         28725,   264,  1215,  1571, 10706, 10093,   477,   272, 28705, 28740,
+         28787,   362,  5445, 28723,  5919,  4372,   272,  4224,  1413,   396,
+          4219, 28708,   294,  3842, 32000, 28705,    13, 32001,  2188,    13,
+          6325,   368,  3324,   264, 16067,   684,   272, 14629, 28804, 32000,
+         28705,    13, 32001, 13892,    13,  1014]], device='cuda:0')}, {'prompt': '<|im_start|>system\nYou are MonadGPT, a very old chatbot from the 17th century. Please answer the questions using an archaic language<|im_end|>\n<|im_start|>user\nHow could we travel to the Moon? With a big cannon?<|im_end|>\n<|im_start|>assistant\n', 'output': tensor([[    1, 32001,  1587,    13,  1976,   460,  3217,   316, 28777,  6316,
+         28725,   264,  1215,  1571, 10706, 10093,   477,   272, 28705, 28740,
+         28787,   362,  5445, 28723,  5919,  4372,   272,  4224,  1413,   396,
+          4219, 28708,   294,  3842, 32000, 28705,    13, 32001,  2188,    13,
+          5660,   829,   478,  4530,   298,   272, 14629, 28804,  2326,   264,
+          2032,   541,  4581, 28804, 32000, 28705,    13, 32001, 13892,    13,
+          1014]], device='cuda:0')}]
+working on <|im_start|>system
+You are MonadGPT, a very old chatbot from the 17th century. Please answer the questions using an archaic language<|im_end|>
+<|im_start|>user
+Who is the most significant thinker in our canon?<|im_end|>
+<|im_start|>assistant
+
+[{'prompt': '<|im_start|>system\nYou are MonadGPT, a very old chatbot from the 17th century. Please answer the questions using an archaic language<|im_end|>\n<|im_start|>user\nWhat are the planets of the solar system?<|im_end|>\n<|im_start|>assistant\n', 'output': tensor([[    1, 32001,  1587,    13,  1976,   460,  3217,   316, 28777,  6316,
+         28725,   264,  1215,  1571, 10706, 10093,   477,   272, 28705, 28740,
+         28787,   362,  5445, 28723,  5919,  4372,   272,  4224,  1413,   396,
+          4219, 28708,   294,  3842, 32000, 28705,    13, 32001,  2188,    13,
+          3195,   460,   272, 28312,   302,   272, 13024,  1587, 28804, 32000,
+         28705,    13, 32001, 13892,    13,  1014]], device='cuda:0')}, {'prompt': '<|im_start|>system\nYou are MonadGPT, a very old chatbot from the 17th century. Please answer the questions using an archaic language<|im_end|>\n<|im_start|>user\nWhy has the Moon such an influence upon Earth?<|im_end|>\n<|im_start|>assistant\n', 'output': tensor([[    1, 32001,  1587,    13,  1976,   460,  3217,   316, 28777,  6316,
+         28725,   264,  1215,  1571, 10706, 10093,   477,   272, 28705, 28740,
+         28787,   362,  5445, 28723,  5919,  4372,   272,  4224,  1413,   396,
+          4219, 28708,   294,  3842, 32000, 28705,    13, 32001,  2188,    13,
+          7638,   659,   272, 14629,  1259,   396,  8015,  3714,  8599, 28804,
+         32000, 28705,    13, 32001, 13892,    13,  1014]], device='cuda:0')}, {'prompt': '<|im_start|>system\nYou are MonadGPT, a very old chatbot from the 17th century. Please answer the questions using an archaic language<|im_end|>\n<|im_start|>user\nCan you write a poem about the Moon?<|im_end|>\n<|im_start|>assistant\n', 'output': tensor([[    1, 32001,  1587,    13,  1976,   460,  3217,   316, 28777,  6316,
+         28725,   264,  1215,  1571, 10706, 10093,   477,   272, 28705, 28740,
+         28787,   362,  5445, 28723,  5919,  4372,   272,  4224,  1413,   396,
+          4219, 28708,   294,  3842, 32000, 28705,    13, 32001,  2188,    13,
+          6325,   368,  3324,   264, 16067,   684,   272, 14629, 28804, 32000,
+         28705,    13, 32001, 13892,    13,  1014]], device='cuda:0')}, {'prompt': '<|im_start|>system\nYou are MonadGPT, a very old chatbot from the 17th century. Please answer the questions using an archaic language<|im_end|>\n<|im_start|>user\nHow could we travel to the Moon? With a big cannon?<|im_end|>\n<|im_start|>assistant\n', 'output': tensor([[    1, 32001,  1587,    13,  1976,   460,  3217,   316, 28777,  6316,
+         28725,   264,  1215,  1571, 10706, 10093,   477,   272, 28705, 28740,
+         28787,   362,  5445, 28723,  5919,  4372,   272,  4224,  1413,   396,
+          4219, 28708,   294,  3842, 32000, 28705,    13, 32001,  2188,    13,
+          5660,   829,   478,  4530,   298,   272, 14629, 28804,  2326,   264,
+          2032,   541,  4581, 28804, 32000, 28705,    13, 32001, 13892,    13,
+          1014]], device='cuda:0')}, {'prompt': '<|im_start|>system\nYou are MonadGPT, a very old chatbot from the 17th century. Please answer the questions using an archaic language<|im_end|>\n<|im_start|>user\nWho is the most significant thinker in our canon?<|im_end|>\n<|im_start|>assistant\n', 'output': tensor([[    1, 32001,  1587,    13,  1976,   460,  3217,   316, 28777,  6316,
+         28725,   264,  1215,  1571, 10706, 10093,   477,   272, 28705, 28740,
+         28787,   362,  5445, 28723,  5919,  4372,   272,  4224,  1413,   396,
+          4219, 28708,   294,  3842, 32000, 28705,    13, 32001,  2188,    13,
+         11447,   349,   272,  1080,  5864,  1073,   263,   297,   813, 28585,
+         28804, 32000, 28705,    13, 32001, 13892,    13,  1014]],
+       device='cuda:0')}]
+working on <|im_start|>system
+You are MonadGPT, a very old chatbot from the 17th century. Please answer the questions using an archaic language<|im_end|>
+<|im_start|>user
+What is the role of the artes liberales?<|im_end|>
+<|im_start|>assistant
+
+[{'prompt': '<|im_start|>system\nYou are MonadGPT, a very old chatbot from the 17th century. Please answer the questions using an archaic language<|im_end|>\n<|im_start|>user\nWhat are the planets of the solar system?<|im_end|>\n<|im_start|>assistant\n', 'output': tensor([[    1, 32001,  1587,    13,  1976,   460,  3217,   316, 28777,  6316,
+         28725,   264,  1215,  1571, 10706, 10093,   477,   272, 28705, 28740,
+         28787,   362,  5445, 28723,  5919,  4372,   272,  4224,  1413,   396,
+          4219, 28708,   294,  3842, 32000, 28705,    13, 32001,  2188,    13,
+          3195,   460,   272, 28312,   302,   272, 13024,  1587, 28804, 32000,
+         28705,    13, 32001, 13892,    13,  1014]], device='cuda:0')}, {'prompt': '<|im_start|>system\nYou are MonadGPT, a very old chatbot from the 17th century. Please answer the questions using an archaic language<|im_end|>\n<|im_start|>user\nWhy has the Moon such an influence upon Earth?<|im_end|>\n<|im_start|>assistant\n', 'output': tensor([[    1, 32001,  1587,    13,  1976,   460,  3217,   316, 28777,  6316,
+         28725,   264,  1215,  1571, 10706, 10093,   477,   272, 28705, 28740,
+         28787,   362,  5445, 28723,  5919,  4372,   272,  4224,  1413,   396,
+          4219, 28708,   294,  3842, 32000, 28705,    13, 32001,  2188,    13,
+          7638,   659,   272, 14629,  1259,   396,  8015,  3714,  8599, 28804,
+         32000, 28705,    13, 32001, 13892,    13,  1014]], device='cuda:0')}, {'prompt': '<|im_start|>system\nYou are MonadGPT, a very old chatbot from the 17th century. Please answer the questions using an archaic language<|im_end|>\n<|im_start|>user\nCan you write a poem about the Moon?<|im_end|>\n<|im_start|>assistant\n', 'output': tensor([[    1, 32001,  1587,    13,  1976,   460,  3217,   316, 28777,  6316,
+         28725,   264,  1215,  1571, 10706, 10093,   477,   272, 28705, 28740,
+         28787,   362,  5445, 28723,  5919,  4372,   272,  4224,  1413,   396,
+          4219, 28708,   294,  3842, 32000, 28705,    13, 32001,  2188,    13,
+          6325,   368,  3324,   264, 16067,   684,   272, 14629, 28804, 32000,
+         28705,    13, 32001, 13892,    13,  1014]], device='cuda:0')}, {'prompt': '<|im_start|>system\nYou are MonadGPT, a very old chatbot from the 17th century. Please answer the questions using an archaic language<|im_end|>\n<|im_start|>user\nHow could we travel to the Moon? With a big cannon?<|im_end|>\n<|im_start|>assistant\n', 'output': tensor([[    1, 32001,  1587,    13,  1976,   460,  3217,   316, 28777,  6316,
+         28725,   264,  1215,  1571, 10706, 10093,   477,   272, 28705, 28740,
+         28787,   362,  5445, 28723,  5919,  4372,   272,  4224,  1413,   396,
+          4219, 28708,   294,  3842, 32000, 28705,    13, 32001,  2188,    13,
+          5660,   829,   478,  4530,   298,   272, 14629, 28804,  2326,   264,
+          2032,   541,  4581, 28804, 32000, 28705,    13, 32001, 13892,    13,
+          1014]], device='cuda:0')}, {'prompt': '<|im_start|>system\nYou are MonadGPT, a very old chatbot from the 17th century. Please answer the questions using an archaic language<|im_end|>\n<|im_start|>user\nWho is the most significant thinker in our canon?<|im_end|>\n<|im_start|>assistant\n', 'output': tensor([[    1, 32001,  1587,    13,  1976,   460,  3217,   316, 28777,  6316,
+         28725,   264,  1215,  1571, 10706, 10093,   477,   272, 28705, 28740,
+         28787,   362,  5445, 28723,  5919,  4372,   272,  4224,  1413,   396,
+          4219, 28708,   294,  3842, 32000, 28705,    13, 32001,  2188,    13,
+         11447,   349,   272,  1080,  5864,  1073,   263,   297,   813, 28585,
+         28804, 32000, 28705,    13, 32001, 13892,    13,  1014]],
+       device='cuda:0')}, {'prompt': '<|im_start|>system\nYou are MonadGPT, a very old chatbot from the 17th century. Please answer the questions using an archaic language<|im_end|>\n<|im_start|>user\nWhat is the role of the artes liberales?<|im_end|>\n<|im_start|>assistant\n', 'output': tensor([[    1, 32001,  1587,    13,  1976,   460,  3217,   316, 28777,  6316,
+         28725,   264,  1215,  1571, 10706, 10093,   477,   272, 28705, 28740,
+         28787,   362,  5445, 28723,  5919,  4372,   272,  4224,  1413,   396,
+          4219, 28708,   294,  3842, 32000, 28705,    13, 32001,  2188,    13,
+          3195,   349,   272,  3905,   302,   272,  1524,   274,  7172,  2230,
+         28804, 32000, 28705,    13, 32001, 13892,    13,  1014]],
+       device='cuda:0')}]

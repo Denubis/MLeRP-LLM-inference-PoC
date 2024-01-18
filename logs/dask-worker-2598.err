@@ -1,0 +1,53 @@
+2024-01-18 07:13:13,016 - distributed.worker - INFO -       Start worker at:  tcp://192.168.0.211:37181
+2024-01-18 07:13:13,017 - distributed.worker - INFO -          Listening to:  tcp://192.168.0.211:37181
+2024-01-18 07:13:13,017 - distributed.worker - INFO -           Worker name:             SLURMCluster-0
+2024-01-18 07:13:13,017 - distributed.worker - INFO -          dashboard at:        192.168.0.211:46007
+2024-01-18 07:13:13,017 - distributed.worker - INFO - Waiting to connect to:  tcp://192.168.0.211:35017
+2024-01-18 07:13:13,017 - distributed.worker - INFO - -------------------------------------------------
+2024-01-18 07:13:13,017 - distributed.worker - INFO -               Threads:                          8
+2024-01-18 07:13:13,017 - distributed.worker - INFO -                Memory:                 178.81 GiB
+2024-01-18 07:13:13,017 - distributed.worker - INFO -       Local Directory: /tmp/dask-scratch-space/worker-89uv1r72
+2024-01-18 07:13:13,017 - distributed.worker - INFO - -------------------------------------------------
+2024-01-18 07:13:13,394 - distributed.worker - INFO - Starting Worker plugin shuffle
+2024-01-18 07:13:13,395 - distributed.worker - INFO -         Registered to:  tcp://192.168.0.211:35017
+2024-01-18 07:13:13,395 - distributed.worker - INFO - -------------------------------------------------
+2024-01-18 07:13:13,395 - distributed.core - INFO - Starting established connection to tcp://192.168.0.211:35017
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:03<00:03,  3.26s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:04<00:00,  2.25s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:04<00:00,  2.40s/it]
+Setting `pad_token_id` to `eos_token_id`:32000 for open-end generation.
+/home/denubis/.local/lib/python3.11/site-packages/transformers/generation/utils.py:1355: UserWarning: Using the model-agnostic default `max_length` (=20) to control the generation length. We recommend setting `max_new_tokens` to control the maximum length of the generation.
+  warnings.warn(
+/home/denubis/.local/lib/python3.11/site-packages/transformers/generation/utils.py:1363: UserWarning: Input length of input_ids is 55, but `max_length` is set to 20. This can lead to unexpected behavior. You should consider increasing `max_new_tokens`.
+  warnings.warn(
+/home/denubis/.local/lib/python3.11/site-packages/bitsandbytes/autograd/_functions.py:322: UserWarning: MatMul8bitLt: inputs will be cast from torch.bfloat16 to float16 during quantization
+  warnings.warn(f"MatMul8bitLt: inputs will be cast from {A.dtype} to float16 during quantization")
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:03<00:03,  3.28s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:04<00:00,  2.26s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:04<00:00,  2.41s/it]
+Setting `pad_token_id` to `eos_token_id`:32000 for open-end generation.
+/home/denubis/.local/lib/python3.11/site-packages/transformers/generation/utils.py:1363: UserWarning: Input length of input_ids is 56, but `max_length` is set to 20. This can lead to unexpected behavior. You should consider increasing `max_new_tokens`.
+  warnings.warn(
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:03<00:03,  3.28s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:04<00:00,  2.25s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:04<00:00,  2.40s/it]
+Setting `pad_token_id` to `eos_token_id`:32000 for open-end generation.
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:03<00:03,  3.27s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:04<00:00,  2.25s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:04<00:00,  2.40s/it]
+Setting `pad_token_id` to `eos_token_id`:32000 for open-end generation.
+/home/denubis/.local/lib/python3.11/site-packages/transformers/generation/utils.py:1363: UserWarning: Input length of input_ids is 60, but `max_length` is set to 20. This can lead to unexpected behavior. You should consider increasing `max_new_tokens`.
+  warnings.warn(
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:03<00:03,  3.26s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:04<00:00,  2.25s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:04<00:00,  2.40s/it]
+Setting `pad_token_id` to `eos_token_id`:32000 for open-end generation.
+/home/denubis/.local/lib/python3.11/site-packages/transformers/generation/utils.py:1363: UserWarning: Input length of input_ids is 57, but `max_length` is set to 20. This can lead to unexpected behavior. You should consider increasing `max_new_tokens`.
+  warnings.warn(
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:03<00:03,  3.26s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:04<00:00,  2.25s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:04<00:00,  2.40s/it]
+Setting `pad_token_id` to `eos_token_id`:32000 for open-end generation.
+2024-01-18 07:14:49,381 - distributed.core - INFO - Connection to tcp://192.168.0.211:35017 has been closed.
+2024-01-18 07:14:49,381 - distributed.worker - INFO - Stopping worker at tcp://192.168.0.211:37181. Reason: worker-handle-scheduler-connection-broken
+2024-01-18 07:14:49,384 - distributed.dask_worker - INFO - End worker
